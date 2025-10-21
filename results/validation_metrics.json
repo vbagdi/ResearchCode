@@ -1,0 +1,39 @@
+{
+  "total_discovered": 115,
+  "gold_standard_size": 10,
+  "found_count": 10,
+  "recall": 1.0,
+  "precision_at_20": 0.15,
+  "missed_tools": [],
+  "found_tools": [
+    "deepchem",
+    "openbabel",
+    "biopython",
+    "pubchempy",
+    "rdkit",
+    "chempy",
+    "prody",
+    "mdanalysis",
+    "mordred",
+    "pymolopensource"
+  ],
+  "novel_top20": [
+    "aqme",
+    "chemprop",
+    "thermo",
+    "equibind",
+    "stk",
+    "torchdrug",
+    "molecularnodes",
+    "chemicalx",
+    "deepmdkit",
+    "moses",
+    "qcelemental",
+    "reinvent4",
+    "scikitfingerprints",
+    "scaffoldgraph",
+    "datamol",
+    "openchem",
+    "biopandas"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "gold_standard_tools": [
+    "rdkit",
+    "openbabel", 
+    "deepchem",
+    "pubchempy",
+    "mordred",
+    "chempy",
+    "mdanalysis",
+    "pymol-open-source",
+    "prody",
+    "biopython"
+  ]
+}
